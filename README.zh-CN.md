@@ -4,7 +4,7 @@
 
 > 把 AI Agent 部署到任意机器，用一台电脑或一部手机统一控制。
 
-[English](./README.md) · [运行文档](./run_docs/README.md) · [架构文档](./dev_docs/project_knowledge/architecture.md) · [开发文档索引](./dev_docs/index.md) · [许可证草案](./LICENSE) · [商业授权草案](./COMMERCIAL_LICENSE.md) · [社区行为准则](./CODE_OF_CONDUCT.md) · [贡献指南](./CONTRIBUTING.md) · [安全披露](./SECURITY.md)
+[English](./README.md) · [运行文档](./run_docs/README.md) · [架构文档](./docs/ARCHITECTURE.md) · [开发文档索引](./docs/index.md) · [许可证草案](./LICENSE) · [商业授权草案](./COMMERCIAL_LICENSE.md) · [社区行为准则](./CODE_OF_CONDUCT.md) · [贡献指南](./CONTRIBUTING.md) · [安全披露](./SECURITY.md)
 
 MyClaws 是一个面向高级用户的公开源码 AI Agent 平台，核心价值不是“在一台机器里跑一个 Agent”，而是把很多真实机器统一接入一个控制面。它不做人为的平台主机上限限制，不额外套沙箱，复杂任务可以直接交给最强模型，同时你仍然可以按自己的需要组合 Experts、工具、Skills 和 MCP。
 
@@ -201,9 +201,9 @@ MyClaws 的设计是本地优先、自主管理。Claw 会直接以启动它的�
 - `./run_docs/README.md` — 公开运维与部署文档索引
 - `./run_docs/claw-install-guide.md` — Linux / macOS / Windows 的 Claw 安装指南
 - `./run_docs/admin-server-ops.md` — 面向公开部署的 Admin 运维模板
-- `./dev_docs/project_knowledge/architecture.md` — 更深入的系统架构说明
-- `./dev_docs/project_knowledge/project-context.md` — 项目上下文与设计原则
-- `./dev_docs/index.md` — 完整开发文档索引
+- `./docs/ARCHITECTURE.md` — 更深入的系统架构说明
+- `./docs/knowledge/project-context.md` — 项目上下文与设计原则
+- `./docs/index.md` — 完整开发文档索引
 
 ## 授权与商业使用说明
 
