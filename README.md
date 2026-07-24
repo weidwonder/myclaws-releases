@@ -4,7 +4,7 @@
 
 > Deploy AI agents to any machine. Control them from one desktop or phone.
 
-[中文说明](./README.zh-CN.md) · [Operations Docs](./run_docs/README.md) · [Architecture](./dev_docs/project_knowledge/architecture.md) · [Developer Docs](./dev_docs/index.md) · [License](./LICENSE) · [Commercial Terms](./COMMERCIAL_LICENSE.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributing](./CONTRIBUTING.md) · [Security](./SECURITY.md)
+[中文说明](./README.zh-CN.md) · [Operations Docs](./run_docs/README.md) · [Architecture](./docs/ARCHITECTURE.md) · [Developer Docs](./docs/index.md) · [License](./LICENSE) · [Commercial Terms](./COMMERCIAL_LICENSE.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributing](./CONTRIBUTING.md) · [Security](./SECURITY.md)
 
 MyClaws is a public-source AI agent platform built for people who want to remotely control many real machines from one control plane, without platform-imposed host caps or extra sandbox walls. You can route complex work to frontier models, keep full access to the real environment on each host, and shape the workflow with your own experts, tools, skills, and MCP stack.
 
@@ -201,9 +201,9 @@ This model is best suited to engineers and advanced users who are comfortable ma
 - `./run_docs/README.md` — public operations and deployment document index
 - `./run_docs/claw-install-guide.md` — install Claw on Linux, macOS, or Windows
 - `./run_docs/admin-server-ops.md` — Admin operations template for public deployment
-- `./dev_docs/project_knowledge/architecture.md` — deeper system architecture
-- `./dev_docs/project_knowledge/project-context.md` — project context and design principles
-- `./dev_docs/index.md` — full developer documentation index
+- `./docs/ARCHITECTURE.md` — deeper system architecture
+- `./docs/knowledge/project-context.md` — project context and design principles
+- `./docs/index.md` — full developer documentation index
 
 ## License and commercial authorization
 
